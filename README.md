@@ -1,9 +1,11 @@
 # grupo_1_tutorial
 Entrega do vídeo tutorial sobre Responsive Design e Media Queries do Grupo 1.
 
-Link para download WeTransfer do vídeo Tutorial do Grupo 1: https://we.tl/t-TuCPruUdKr
 
-(vídeo inclui conteúdo de suporte por escrito para melhor compreensão)
+
+LINK PARA DOWNLOAD (WeTransfer) do vídeo Tutorial do Grupo 1: https://we.tl/t-TuCPruUdKr
+
+(vídeo inclui conteúdo por escrito para melhor compreensão)
 
 
 EXERCÍCIO PROPOSTO:
